@@ -9,7 +9,7 @@ Plataforma de classificação de imagens de tecido mamário com o dataset Breast
 - `streamlit_app.py` – Interface gráfica para upload e resultado
 - `requirements.txt` – Dependências principais
 
-## Como correr( usando Anaconda)
+## Como correr (usando Anaconda)
 ```bash
 conda create -n breastmnist python=3.11
 conda activate breastmnist
