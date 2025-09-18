@@ -1,0 +1,6 @@
+tensorflow==2.15.*
+medmnist
+flask
+streamlit
+pandas
+numpy
