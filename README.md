@@ -11,7 +11,7 @@ Plataforma de classificação de imagens de tecido mamário com o dataset Breast
 - 
 ## Clonar o repositório
 ```bash
-git clone https://github.com/usuario/BreastMNIST-Plataforma.git
+git clone https://github.com/ggpaolini/BreastMNIST-Plataforma.git
 
 ```
 
