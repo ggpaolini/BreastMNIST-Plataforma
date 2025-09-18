@@ -8,6 +8,12 @@ Plataforma de classificação de imagens de tecido mamário com o dataset Breast
 - `app.py` – API Flask para receber imagens e devolver diagnóstico
 - `streamlit_app.py` – Interface gráfica para upload e resultado
 - `requirements.txt` – Dependências principais
+- 
+## Clonas o repositório
+```bash
+git clone https://github.com/usuario/BreastMNIST-Plataforma.git
+
+```
 
 ## Como correr (usando Anaconda)
 ```bash
