@@ -17,6 +17,7 @@ pip install -r requirements.txt
 
 # iniciar API
 python app.py
-
+```
 # noutro terminal, iniciar interface
+```bash
 streamlit run streamlit_app.py
