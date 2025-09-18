@@ -9,7 +9,7 @@ Plataforma de classificação de imagens de tecido mamário com o dataset Breast
 - `streamlit_app.py` – Interface gráfica para upload e resultado
 - `requirements.txt` – Dependências principais
 - 
-## Clonas o repositório
+## Clonar o repositório
 ```bash
 git clone https://github.com/usuario/BreastMNIST-Plataforma.git
 
